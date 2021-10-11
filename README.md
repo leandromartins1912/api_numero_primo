@@ -5,6 +5,7 @@ Este Projeto foi desenvolvido com nodejs. <img height="30" width="40" src="https
 
 No diretório do projeto, você pode executar:
 
+### `npm install`
 ### `npm start ou nodemon server.js`
 
 ## Aplicação Local
